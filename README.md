@@ -6,7 +6,7 @@ A Machine Learning and Natural Language Processing (NLP) project that classifies
 
 ## 🚀 Live Demo
 
-🔗 https://spam-email-detection-saurabh12.streamlit.app/
+🔗 https://spamemaildetection-rishabhsingh.streamlit.app/
 
 ---
 
@@ -212,18 +212,16 @@ seaborn
 
 ## 👨‍💻 Author
 
-**Saurabh Giri**
+**Rishabh Singh**
 
 B.Tech Computer Science Engineering
 
 GitHub:
 
-https://github.com/Saurabhgiri475
-
+https://github.com/
 LinkedIn:
 
-https://www.linkedin.com/in/saurabh-giri-3aaa16300
-
+https://www.linkedin.com/mynetwork/catch-up/all/
 ---
 
 ## ⭐ Support
