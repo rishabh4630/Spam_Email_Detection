@@ -99,7 +99,7 @@ The dataset contains email messages labeled as:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Saurabhgiri475/Spam_Email_Detection.git
+git clone https://github.com/rishabh4630/Spam_Email_Detection.git
 ```
 
 ### Navigate to the Project Folder
